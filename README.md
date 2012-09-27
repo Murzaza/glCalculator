@@ -1,6 +1,6 @@
 # glCalculator
 
-The first programming assignment for CS 535. Just a simple function calculator created using OpenGL.
+The first programming assignment for CS 535. Just a simple function calculator created using OpenGL. Simple design.
 
 ## Building
 Linux:
