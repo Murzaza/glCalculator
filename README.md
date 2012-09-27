@@ -9,3 +9,6 @@ Linux:
 Mac OS X:
 	make mac
 
+## Running
+Linux & Mac OS X:
+	./glCalc.o

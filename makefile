@@ -8,5 +8,8 @@ linux: $(REQ)
 mac: $(REQ)
 	g++ -o $(OUT) $(FINAL) -I/opt/local/include -L/opt/local/lib -framework OpenGL -framework GLUT -lGLEW
 
+Button.o: Button.h
+	echo "Not Yet!"
+
 clean:
 	rm *.o
